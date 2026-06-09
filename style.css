@@ -13,6 +13,8 @@ body{
     height: 75px;
     margin-left: 20px;
     margin-top: 20px;
+    padding-top: 12.5px;
+    border-radius: 15%;
 }
 #linesInMenu{
     background-color: white;
