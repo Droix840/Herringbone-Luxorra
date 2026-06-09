@@ -1,0 +1,23 @@
+body{
+    background-image: url("gradient-black-background-with-wavy-lines_23-2149162755.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #070638;
+}
+#logo{
+    
+}
+#menu{
+    background-color: #494a54;
+    width: 75px;
+    height: 75px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#linesInMenu{
+    background-color: white;
+    height: 10px;
+    margin-bottom: 10px;
+    width: 50px;
+
+}
