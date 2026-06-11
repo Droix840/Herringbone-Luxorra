@@ -1,0 +1,6 @@
+    - nagy cím
+    - történet
+    - küllön gombok az áruknak
+    - kosár, profil
+    - elérhetőség
+    - képek, árak
